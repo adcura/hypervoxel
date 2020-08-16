@@ -9,6 +9,8 @@ _These data sets can be packaged for offline distribution and peer caching._
 
 Heres a link to the project video:  https://youtu.be/PN4msrULoz0
 
+The slide deck used in the video is here, and the images show aspects of the app user interface.
+
 This tool allows **conversion of common 3d data formats** into very large point based (voxel) datasets.  The client tools include methods for geo-locating data of any kind.  The conversion tool was used to create a proof of concept dataset starting with government data, converted to point cloud.
 https://github.com/adcura/udSDKSamples
 
