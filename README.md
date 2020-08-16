@@ -57,3 +57,47 @@ Right, we need to see our data now, we need it on a map, we need it to make sens
 We, the global hacker and data nerd and geo geek community have already built the tools for all of this, now ask yourself why you would want a new app for a disaster, one that needs access to a server far away or overseas always, one that requires a user to be registered with a private company – do you really want Apple or Google to be responsible for preventing a citizen from receiving life-saving information in a timely manner? NO CAPES! I mean NO APPS! Truth is, all of the things we want to do, all the things that need to be done for a system like this to work can be done in a web browser, and every device, my old phone, my new one, my laptop, dads old desktop, mums laptop, all of them have wifi and a web browser, if we build for that, then everyone is catered for, nobody is left out.  Wqeb servers are easy too, guess what the Boon box has in it, a web server, servers up the website, that the people need, with all the data on it, starting to get it?
 
 Here's a bunch of things that we’ve thrown together over a weekend that can solve the problems that we're all talking about, the hardware exists, the software exists, the data is there, when we put the crew together that is responsible for building this, when we fund them, we can have answers to those challenges.  Hypervoxel are proud to present US, the people, the geeks that care, the nerds that can, back this project, help us win, help us get funded for full time work, continuous improvement, exercise, a reserve data force, a real thing that can grow out of a hackathon and serve our community.  We need more than just another app, or just an idea, or just another opportunity for commercial success, we need proper backing.  Everyone participating in Govhack is our team, everyone participating believes they could make a positive difference if given the opportunity.
+
+
+Some datasets included in the main web app are listed below.
+
+Wave power: The wave resource data is made available from the jointly funded CSIRO Oceans and Atmosphere and Australian Renewable Energy Agency Australian Wave Energy Atlas Project.
+http://dx.doi.org/10.4225/08/523168703DCC5
+
+Bushfire Prone Area (July 2017)
+Potential intensity classes within the Bushfire Prone Area are calculated by combining information on Potential Fuel Load, Maximum Landscape Slope and Fire Weather Severity to calculate Potential Fire-line Intensity from Public Safety Business Agency Managed by PublicSafetyQld_Data
+https://tiles.arcgis.com/tiles/vkTwD8kHw2woKBqV/arcgis/rest/services/Bushfire_Prone_Areas/MapServer
+
+Air quality data comes directly from EPA air monitoring stations via EPA API portal.api.epa.vic.gov.au
+https://services1.arcgis.com/vHnIGBHHqDR6y0CR/arcgis/rest/services/Air_Quality_Latest_Readings/FeatureServer
+
+MODIS Fire Activity TD03-Copier
+https://services8.arcgis.com/TRbKbEKVKCF4tDjK/arcgis/rest/services/MODIS_Fire_Activity_TD03/FeatureServer
+
+Regional Fire Management - Planned Burns
+PCS conducts a number of prescribed burns each year in and around urban and rural areas across Canberra and Googong Foreshore (NSW) to prepare for the upcoming fire season.
+https://data.actmapi.act.gov.au/arcgis/rest/services/data_extract/Emergency_Management/MapServer/6
+
+Fire History Scar
+Aggregated historic fire severity classification from 1998 onward for wildfires. It currently has all of the fire sev classification done from FIRE_SEV98 to FIRE_SEV09 as well as Grampians Victoria valley complex 2013 and Grampians northern complex 2014
+https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/FireHistory/FeatureServer
+
+Fire Danger Ratings - 4 Day Forecast (VIC)
+Total Fire Ban and Fire Danger Ratings (All fire districts) synced from data.emergency.vic.gov.au
+https://services1.arcgis.com/vHnIGBHHqDR6y0CR/arcgis/rest/services/Fire_Danger_Ratings_for_Victoria/FeatureServer
+
+VIC Bushfire Observations - Current Burn Area
+https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Bushfire_Observations/FeatureServer
+
+VIC Incidents
+https://services1.arcgis.com/vHnIGBHHqDR6y0CR/arcgis/rest/services/VIC_Incidents_from_EMV/FeatureServer
+
+National_Fire_Extent_v20200211
+https://services1.arcgis.com/ZdmoaKLXhx5EdwBs/arcgis/rest/services/National_Fire_Extent_v20200211/FeatureServer
+
+
+Waze Live Incidents - Bushfire Response
+https://services9.arcgis.com/kQtExguYa1aPRlz7/arcgis/rest/services/Waze_Live_Alerts_View/FeatureServer
+
+QFES Bushfire Current Incidents Hosted Public View
+https://services1.arcgis.com/vkTwD8kHw2woKBqV/arcgis/rest/services/BushfireCurrentIncidentsHostedPublicView/FeatureServer
