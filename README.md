@@ -2,7 +2,7 @@
 
 # Thanks for coming to check out our work - please find links to everything we used to imagine and realise this project here.
 
-Here's a link to a web app displaying several examples of emergency and climate related data:
+Here's a link to a web app displaying several examples of emergency and climate related data that would be included in the proposed data management infrastructure:
 https://hypervoxels.maps.arcgis.com/apps/webappviewer3d/index.html?id=6873e562ba5e4ed7a1a4eb9ee3d9558b
 
 _These data sets can be packaged for offline distribution and peer caching._
@@ -15,6 +15,8 @@ https://github.com/adcura/dynamic-situational-awareness-qt
 it uses the arcgis runtime:
 https://github.com/adcura/arcgis-runtime-samples-qt
 Long description here: https://developers.arcgis.com/example-apps/dynamic-situational-awareness/
+
+Please see the images in this folder for some screenshots of the user interface provided in the sample application.
 
 This tool allows for **citizen reporting** of incidents, observations, we image this component running as a web app always, rather than an installed app, so that anyone can participate at any time:
 https://developers.arcgis.com/example-apps/data-collection/
