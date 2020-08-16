@@ -1,5 +1,3 @@
-# hypervoxel
-
 # Thanks for coming to check out our work - please find links to everything we used to imagine and realise this project here.
 
 Here's a link to a web app displaying several examples of emergency and climate related data:
