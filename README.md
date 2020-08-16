@@ -16,7 +16,7 @@ it uses the arcgis runtime:
 https://github.com/adcura/arcgis-runtime-samples-qt
 Long description here: https://developers.arcgis.com/example-apps/dynamic-situational-awareness/
 
-This tool allows for citizen reporting of incidents, observations:
+This tool allows for citizen reporting of incidents, observations, we image this component running as a web app always, rather than an installed app, so that anyone can participate at any time:
 https://developers.arcgis.com/example-apps/data-collection/
 
 The Boon local data cache could be built with the following hardware and software:
