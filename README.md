@@ -32,7 +32,7 @@ https://www.openstack.org/
 https://openwrt.org/toh/zbt/we-826
 
 
-Here is script for that video in case you're unable to listed at 300 words per minute :)
+Here is script for that video in case you're unable to listen at 300 words per minute :)
 
 The Hypervoxel team have put together a suite of tools for data visualization and real-time communication for use during emergencies!  We found open source tools that work across platforms, without installing apps, and can survive network outages! Don’t drink the app-driven cool-aid, go offline, get it done in a web browser, everyone’s got one!
 
